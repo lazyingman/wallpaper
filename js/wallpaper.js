@@ -1,5 +1,5 @@
 var seting = {
-    apiUrl: "../api/api.php",    // api地址
+    apiUrl: "api.php",    // api地址
     ratio: 0.618,        // 图片宽高比
     types: '360new',     // 加载壁纸的种类
     downApi: 'https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=' // 用于下载图片的api地址
