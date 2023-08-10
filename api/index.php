@@ -91,6 +91,6 @@ function is_https() {
 <!--全屏滚动插件-->
 <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js" type="application/javascript"></script>
 <!--页面核心js文件-->
-<script type="text/javascript" src="./wallpaper.js"></script>
+<script type="text/javascript" src="https://s-sh-6479-blog.oss.dogecdn.com/wallpaper.js"></script>
 <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
