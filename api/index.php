@@ -11,7 +11,7 @@ function is_https() {
 }
 ?>
 
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -87,10 +87,10 @@ function is_https() {
 <!-- jQuery文件 -->
 <script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
 <!--滚动加载插件-->
-<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery.lazyload/1.9.1/jquery.lazyload.min.js" type="application/javascript"></script>
+<script src="https://fastly.jsdelivr.net/npm/jquery-lazyload@1.9.4/jquery.lazyload.js" type="application/javascript"></script>
 <!--全屏滚动插件-->
 <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js" type="application/javascript"></script>
 <!--页面核心js文件-->
-<script type="text/javascript" src="../js/wallpaper.js"></script>
+<script type="text/javascript" src="./wallpaper.js"></script>
 <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
