@@ -30,7 +30,7 @@ function is_https() {
     <meta name="robots" content="index,follow"/>
     <meta name="referrer" content="no-referrer" />
     <link rel="shortcut icon" href="https://zhouxiaoben.info/src/wp-content/uploads/2018/07/xiaobiaoti.png">
-    <link rel="stylesheet" href="css/wallpaper.css">
+    <link rel="stylesheet" href="../css/wallpaper.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
@@ -82,7 +82,7 @@ function is_https() {
 
     <a id="toolBall" target="_blank" href="javascript:void(0);" class="uptoTop"></a>
 
-    <div id="loadmore">小笨壁纸加载中……</div>
+    <div id="loadmore">别亦难壁纸加载中……</div>
 	<div class="xben-full-img"><img
             src="http://cdn-ali-img-staticbz.shanhutech.cn/bizhi/staticwp/202003/9bd0be8ab5506a7902f36eb4da95ebc1--3977944025.jpg"/>
     <button class="horizontal-btn btn btn-primary">横屏显示</button>
@@ -91,10 +91,10 @@ function is_https() {
 <!-- jQuery文件 -->
 <script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
 <!--滚动加载插件-->
-<script type="text/javascript" src="js/jquery.lazyload.min.js"></script>
+<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery.lazyload/1.9.1/jquery.lazyload.min.js" type="application/javascript"></script>
 <!--全屏滚动插件-->
-<script type="text/javascript" src="js/jquery.onepage-scroll.min.js"></script>
+<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js" type="application/javascript"></script>
 <!--页面核心js文件-->
-<script type="text/javascript" src="js/wallpaper.js"></script>
+<script type="text/javascript" src="../js/wallpaper.js"></script>
 <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
