@@ -25,8 +25,8 @@ function is_https() {
     ?>
     <meta name="robots" content="index,follow"/>
     <meta name="referrer" content="no-referrer" />
-    <link rel="shortcut icon" href="https://zhouxiaoben.info/src/wp-content/uploads/2018/07/xiaobiaoti.png">
-    <link rel="stylesheet" href="../css/wallpaper.css">
+    <link rel="shortcut icon" href="https://bu.dusays.com/2023/08/01/64c90398c38e6.webp">
+    <link rel="stylesheet" href="./css/wallpaper.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
@@ -91,6 +91,6 @@ function is_https() {
 <!--全屏滚动插件-->
 <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js" type="application/javascript"></script>
 <!--页面核心js文件-->
-<script type="text/javascript" src="https://s-sh-6479-blog.oss.dogecdn.com/wallpaper.js"></script>
+<script type="text/javascript" src="./js/wallpaper.js"></script>
 <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
