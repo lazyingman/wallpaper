@@ -220,7 +220,7 @@ function ajaxBingWal(start, count) {
         success: function (jsonData) {
             let newHtml = "";
             if (isPC()) {
-                newHtml += '<link rel="stylesheet" href="./css/onepage-scroll.css">', downUrl = '';
+                newHtml += '<link rel="stylesheet" href="http://s-sh-6479-blog.oss.dogecdn.com/onepage-scroll.css">', downUrl = '';
                 $("#walBox").append(newHtml);   // 全屏滚动插件css
             }
             for (var i = 0; i < jsonData.images.length; i++) {
