@@ -26,13 +26,13 @@ function is_https() {
     <meta name="robots" content="index,follow"/>
     <meta name="referrer" content="no-referrer" />
     <link rel="shortcut icon" href="https://bu.dusays.com/2023/08/01/64c90398c38e6.webp">
-    <link rel="stylesheet" href="http://s-sh-6479-blog.oss.dogecdn.com/wallpaper.css">
+    <link rel="stylesheet" href="https://lazyingman.s3.bitiful.net/wallpaper/wallpaper.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
 
 <nav class="navbar navbar-expand-sm xben-nav  navbar-light fixed-top">
-    <a class="navbar-brand xben-title" href="http://wallpaper.zhouxiaoben.info" >别亦难在线壁纸</a>
+    <a class="navbar-brand xben-title" href="http://wallpaper.lazyingman.com" >别亦难在线壁纸</a>
     <button class="navbar-toggler xben-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -87,6 +87,6 @@ function is_https() {
 <script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery.lazyload/1.9.1/jquery.lazyload.min.js" type="application/javascript"></script>
 <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js" type="application/javascript"></script>
-<script type="text/javascript" src="http://s-sh-6479-blog.oss.dogecdn.com/wallpaper.js"></script>
+<script type="text/javascript" src="https://lazyingman.s3.bitiful.net/wallpaper/wallpaper.js"></script>
 <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>

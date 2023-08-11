@@ -268,7 +268,7 @@ body[class *=viewing-page] .xben-container {
 
 /* 下载必应图片时显示下载图标 */
 .downBing {
-    background: url("../image/dl-white.png") no-repeat;
+    background: url("https://bu.dusays.com/2023/08/11/64d60c1324106.png") no-repeat;
 }
 
 /* 返回顶部时显示返回顶部图标 */
@@ -391,7 +391,7 @@ box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
     outline: none!important;
 }
 .xben-nav .xben-toggler .navbar-toggler-icon{
-    background: url("../image/zd.png");
+    background: url("https://bu.dusays.com/2023/08/11/64d60bcd2a106.png");
     background-size: 100% 100%;
 }
 .xben-dropdown-menu{
