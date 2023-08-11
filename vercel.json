@@ -1,29 +1,29 @@
 {
-  "functions": {
-      "api/**.*": {
-        "runtime": "vercel-php@0.6.0"
-      }
-  },
-  "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/api/$1"
-      },
-      {
-        "src": "/css/wallpaper",
-        "dest": "/api/css/wallpaper.css"
-      },
-      {
-        "src": "/image/(.*)",
-        "dest": "/api/image/$1"
-      },
-      {
-        "src": "/js/wallpaper.js",
-        "dest": "/api/js/wallpaper.js"
-      },
-      {
-        "src": "/(.*)",
-        "dest": "/api/index.php"
-      }
-    ]
-}
+    "functions": {
+        "api/**.*": {
+          "runtime": "vercel-php@0.6.0"
+        }
+    },
+    "routes": [
+        {
+          "src": "/(.*)",
+          "dest": "/api/$1"
+        },
+        {
+          "src": "/css/wallpaper",
+          "dest": "/api/css/wallpaper.css"
+        },
+        {
+          "src": "/image/(.*)",
+          "dest": "/api/image/$1"
+        },
+        {
+          "src": "/js/wallpaper.js",
+          "dest": "/api/js/wallpaper.js"
+        },
+        {
+          "src": "/(.*)",
+          "dest": "/api/index.php"
+        }
+      ]
+  }
