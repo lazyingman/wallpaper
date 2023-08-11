@@ -11,12 +11,12 @@ function is_https() {
 }
 ?>
 
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>别亦难壁纸</title>
+    <title>别亦难电脑壁纸</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <?php
     if(is_https()){
@@ -26,13 +26,13 @@ function is_https() {
     <meta name="robots" content="index,follow"/>
     <meta name="referrer" content="no-referrer" />
     <link rel="shortcut icon" href="https://bu.dusays.com/2023/08/01/64c90398c38e6.webp">
-    <link rel="stylesheet" href="https://s-sh-6479-blog.oss.dogecdn.com/wallpaper.css">
+    <link rel="stylesheet" href="./css/wallpaper.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
 
 <nav class="navbar navbar-expand-sm xben-nav  navbar-light fixed-top">
-    <a class="navbar-brand xben-title" href="http://wallpaper.lazyingman.com" >别亦难在线壁纸</a>
+    <a class="navbar-brand xben-title" href="http://wallpaper.zhouxiaoben.info" >别亦难在线壁纸</a>
     <button class="navbar-toggler xben-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -84,13 +84,9 @@ function is_https() {
     <button class="horizontal-btn btn btn-primary">横屏显示</button>
 </div>
 </div>
-<!-- jQuery文件 -->
 <script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
-<!--滚动加载插件-->
-<script src="https://fastly.jsdelivr.net/npm/jquery-lazyload@1.9.4/jquery.lazyload.js" type="application/javascript"></script>
-<!--全屏滚动插件-->
-<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js" type="application/javascript"></script>
-<!--页面核心js文件-->
-<script type="text/javascript" src="http://s-sh-6479-blog.oss.dogecdn.com/wallpaper.js"></script>
+<script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery.lazyload/1.9.1/jquery.lazyload.min.js" type="application/javascript"></script>
+<script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js" type="application/javascript"></script>
+<script type="text/javascript" src="./js/wallpaper.js"></script>
 <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>

@@ -220,7 +220,7 @@ function ajaxBingWal(start, count) {
         success: function (jsonData) {
             let newHtml = "";
             if (isPC()) {
-                newHtml += '<link rel="stylesheet" href="http://s-sh-6479-blog.oss.dogecdn.com/onepage-scroll.css">', downUrl = '';
+                newHtml += '<link rel="stylesheet" href="css/onepage-scroll.css">', downUrl = '';
                 $("#walBox").append(newHtml);   // 全屏滚动插件css
             }
             for (var i = 0; i < jsonData.images.length; i++) {
@@ -415,7 +415,7 @@ function hoverJigsawSearch(obj) {
 // 同步改变浏览器标题
 function changeTitle(obj) {
     if ($(obj).html() == '') {
-        $('title').html('别亦难壁纸-别亦难在线壁纸-在线搜索');
+        $('title').html('小笨电脑壁纸-小笨在线壁纸-在线搜索');
     } else {
         $('title').html($(obj).html() + ' - 在线壁纸');
     }
@@ -487,4 +487,4 @@ function getParenthesesStr(text) {
     return result
 }
 
-console.info('别亦难壁纸来源于：360壁纸库、必应首页壁纸以及金山词霸开放平台\n');
+console.info('小笨壁纸来源于：360壁纸库、必应首页壁纸以及金山词霸开放平台\nGithub：https://github.com/water1996/xben-wallpaper');
